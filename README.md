@@ -9,6 +9,7 @@ Robotics 30 consists of the following CTS modules:
  
 ## ELT3150: Robotics 3
 Students demonstrate remote/autonomous control systems by constructing circuits to control robotic behaviour.
+### Projects:
 
 ## ELT3160: Control Applications
 Students demonstrate the fundamentals of programmed controls and demonstrate how sensing devices are integrated to control output devices.
